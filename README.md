@@ -3,4 +3,4 @@
 
 Repositório criado durante uma aula ao vivo, através de uma máquina virtual Windows!
 
-Essa linha eu adicionei diretamente no site!
+Essa linha eu adicionei através do MacOs!
